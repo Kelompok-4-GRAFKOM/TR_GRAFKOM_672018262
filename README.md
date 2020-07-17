@@ -15,4 +15,4 @@ Ketentuan
 5.Terdapat fungsi mouse dan keyboard yang dapat berfungsi atau bisa digunakan.
 -Mouse untuk memutar objek
 -Keyboard untuk menggerakkan objek
-6.Wajib ada 5 Object yang berelasi dengan tema
+6.Wajib ada 5 Object yang berelasi dengan tema..
