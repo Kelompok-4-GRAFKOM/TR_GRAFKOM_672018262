@@ -1,8 +1,8 @@
 # TR_GRAFKOM_672018262
 Penulis:
-Alvian dafa  p (672018258) as mr.popo
+Alvian dafa  p (672018258) as mr.popo132
 Theresia mutiara Posumah(672018262) as tiaraposumah
-Arzan khoirul anam (672918264) as
+Arzan khoirul anam (672918264) as arzan123
 
 Deskripsi Tugas
 Membuat sebuah Mall yang ada di Thailand yang bernama "Siam Paragon" secara 3D dengan OpenGL 
